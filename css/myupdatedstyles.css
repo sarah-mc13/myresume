@@ -1,0 +1,43 @@
+body {
+  background-image: url("../assets/img/background1.webp");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.headtext {
+  font-weight: bolder;
+  color: #d2b48c;
+  font-family: 'Suwannaphum', serif;
+}
+
+.subhead {
+  font-family: 'Suwannaphum', serif;
+}
+
+.cartitle {
+  font-weight: bold;
+}
+.col-xl-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.pad {
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+}
+
+.vcenter {
+  display: block;
+  margin: 0 auto;;
+}
+
+.site-heading .site-heading-lower {
+  font-size: 5rem;
+  font-weight: bold;
+  line-height: 4rem;
+  text-shadow: 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000;
+  font-family: 'Suwannaphum', serif;
+}
+/* found in styles and edited it */

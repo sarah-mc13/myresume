@@ -1,0 +1,39 @@
+/* styles for my from scratch page (resume) */
+
+.centerimage {
+    text-align: center;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    background-color: rgb(236, 225, 210);
+}
+
+.heading {
+    color: rgb(159, 9, 9);
+    font-size: larger;
+    text-align: center; 
+    position: absolute;
+    margin-left: 35px;
+}
+
+a:visited {
+    color: rgb(152, 74, 38);
+}
+a:hover {
+    font-weight: bolder;
+}
+
+.line {text-decoration: underline;}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+  }
+  
+.mynav {
+    text-align: center;
+    font-size: larger;
+}
